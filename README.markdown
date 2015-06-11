@@ -34,7 +34,7 @@ useful ideas  on using SQL for tree structures: [SO Answer](http://stackoverflow
 ## Results
 
 A sample run:
-![sample run](https://dl.dropboxusercontent.com/content_link/AUzn62fsR0qha0SUbVb4sRQ3f5QNUvz66Ebj6tgEN1tYi7vGPLA1xbolcJJ0VhF2)
+![sample run](https://www.dropbox.com/s/r82vp8hi2u2qovb/Screenshot%202015-06-11%2011.24.47.png?raw=1)
 
 ## License
 
