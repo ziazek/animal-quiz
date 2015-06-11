@@ -13,6 +13,7 @@ If the program has guessed correctly, the game is over and may be restarted with
 ## Requirements
 
 Ruby 2.2.2
+
 Sqlite3
 
 ## Usage
@@ -25,10 +26,15 @@ Prints all database entries on exit
 
 - Use Sqlite3 to store animal data.
 - Consider a binary tree.
-- Consider using RubyTree gem. (no persistence - moving on...)
+- Consider using RubyTree gem. (seems to have no persistence - moving on...)
 - Consider using Sequel gem.
 
 useful ideas  on using SQL for tree structures: [SO Answer](http://stackoverflow.com/a/10524722/575388)
+
+## Results
+
+A sample run:
+![sample run](https://photos-4.dropbox.com/t/2/AAB_srRZ6QGpvsHVHAOyH6cMAmpPK1urWeFr7_uCiFdHPA/12/5709465/png/32x32/1/_/1/2/Screenshot%202015-06-11%2011.24.47.png/CJm93AIgASACIAMgBCAFIAYgBygBKAI/L_KX1Hd3r9VJqM6fJK8QTtFUMnCDG4FePri5Fjf0o4I?size=1280x960&size_mode=2)
 
 ## License
 
